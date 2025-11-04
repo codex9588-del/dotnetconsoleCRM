@@ -1,0 +1,11 @@
+# Ignore system files
+.vs/
+bin/
+obj/
+appsettings.Development.json
+appsettings.Production.json
+*.user
+*.suo
+*.cache
+.DS_Store
+Thumbs.db
