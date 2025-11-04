@@ -1,0 +1,68 @@
+# System files
+.AppData/
+.Cookies/
+.Local Settings/
+.My Documents/
+.NetHood/
+.PrintHood/
+.Recent/
+.SendTo/
+.Start Menu/
+.Templates/
+.aws/
+.config/
+.dotnet/
+.nuget/
+.nuke/
+.nvm/
+.templateengine/
+.vscode/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+MicrosoftEdgeBackups/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+OneDrive/
+
+# Windows specific
+NTUSER.DAT*
+ntuser.*
+*.log1
+*.log2
+*.regtrans-ms
+
+# Dot files
+.bash_history
+.bash_profile
+.bashrc
+.erlang.cookie
+.gk/
+.lesshst
+.node_repl_history
+.viminfo
+
+# Project specific (keep these if they're part of your project)
+!.vscode/  # Remove this line if you don't want .vscode tracked
+!.env
+
+# Other directories you want to exclude
+CRMApp/
+ECommerceMicroservices/
+Ecomm.API/
+UserManagementSolution/
+YsApi/
+YsConsoleApp/
+YsPostGre/
+dir
+master/
+yashh/
+ys/
